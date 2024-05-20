@@ -1,0 +1,87 @@
+.poi-header {
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: -webkit-linear-gradient(left, #a445b2, #fa4299);
+}
+
+.map-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+.my-image1,
+.my-image2,
+.my-image4 {
+  max-width: 350px;
+  min-height: 250px;
+}
+
+.jumbotron {
+ 
+  margin-bottom: 5px;
+}
+/* styling to jumbotron text */
+.abt3{
+    font-size: 20px;
+    margin-bottom: 15px;
+    margin-top: -30px;
+}
+.abt5{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.abt6,.abt7,.abt8{
+    font-size: 20px;
+    margin-bottom: 30px;
+    margin-top: 5px;
+}
+
+.abt9{
+    font-size: 20px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+
+/* make the jumbotron text responsive by using media queries */
+ @media (max-width: 576px) {
+    .abt7 {
+    position: relative;
+    top: 290px;
+    }
+} 
+@media (max-width: 576px) {
+    .abt8 {
+    position: relative;
+    top: 590px;
+    }
+} 
+
+
+/* media queries for images  */
+
+@media (max-width: 576px) {
+    .my-image4{
+    margin-top: 100px;
+    }
+} 
+@media (max-width: 576px) {
+    .my-image1 {
+    position: relative;
+    top: -180px;
+    }
+} 
+
+@media (max-width: 576px) {
+    .my-image2 {
+    position: relative;
+    top: -40px;
+    }
+} 
