@@ -1,3 +1,7 @@
+<div style="text-align:center;">
+<img src="https://github.com/nishitsaha52/CommuteX/blob/main/client/public/logo.png" alt="CommuteX Logo" width="500" height="200" >
+</div>
+
 **CommuteX App: Your Ultimate Commuting Companion!**
 
 Welcome aboard CommuteX - Where Your Journey Begins Anew!
@@ -19,7 +23,7 @@ CommuteX isn't just an app; it's your ticket to a transformative commuting exper
 6. **Community Forum**: Join the conversation, share your insights, and connect with fellow commuters on our vibrant Community Forum, where tips and trends are shared, and friendships are formed.
 
 ### 🚀 Installation 🚀
-1. **Clone the Repository**: `git clone https://github.com/yourusername/commuteX.git`
+1. **Clone the Repository**: `git clone https://github.com/nishitsaha52/CommuteX.git`
 2. **Install Dependencies**: `npm install`
 3. **Set up APIs**:
    - Mapbox API: Obtain your API key from Mapbox and configure it in the designated file.
@@ -44,13 +48,9 @@ Check out our demo video to see CommuteX in action: [CommuteX Demo Video](https:
 3. **Smart City Integration**: Partnering with smart city initiatives to further enhance commuting infrastructure and services.
 
 ### 📢 Feedback and Support 📢
-Your feedback fuels our innovation! Reach out to us at support@commuteX.com with your suggestions, questions, or just to say hello!
+Your feedback fuels our innovation! Reach out to us at nishitsaha62@gmail.com with your suggestions, questions, or just to say hello!
 
 ### 🤝 Contributors 🤝
-- John Doe ([@johndoe](https://github.com/johndoe))
-- Jane Smith ([@janesmith](https://github.com/janesmith))
-
-### 📜 License 📜
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
+- Nishit Saha ([@jnishit](https://github.com/nishitsaha52))
 
 Embark on your CommuteX journey today! Your adventure awaits! 🚗🚲🚆
